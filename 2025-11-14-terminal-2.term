@@ -13,3 +13,7 @@ ls
 ls -a
 git branch
 git status
+git restore .
+git pull origin main
+git status
+git add
